@@ -1,0 +1,221 @@
+Altium Designer Pick and Place Locations
+D:\amti\HW\CAD\ALTIUM\eServices\WI4B\Work\Wilamp DCU\work\Design\Wilamp_DCU_v1.0\dsn\Project Outputs for Wilamp_DCU\Generate Files\Wilamp DCU_Pick Place\Wilamp DCU v1.1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       23/01/19
+Time:       16:07
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                Layer    Footprint              Center-X(mm) Center-Y(mm) Rotation Description                                                                     
+U4.3       JN5168-001-M06Z        TopLayer JN5168-001-M06Z        42.774       72.034       0        RF TXRX MODULE 802.15.4 U.FL ANT                                                
+U4.2       JN5168-001-M06Z        TopLayer JN5168-001-M06Z        74.904       71.958       0        RF TXRX MODULE 802.15.4 U.FL ANT                                                
+U4.1       JN5168-001-M06Z        TopLayer JN5168-001-M06Z        10.667       71.907       0        RF TXRX MODULE 802.15.4 U.FL ANT                                                
+U22        SN74LVC244APWR         TopLayer TSSOP-20_(SN74LVC)     49.047       15.178       270      IC BUFF/DVR TRI-ST DUAL 20TSSOP                                                 
+U21        SN74LVC244APWR         TopLayer TSSOP-20_(SN74LVC)     34.279       44.299       180      IC BUFF/DVR TRI-ST DUAL 20TSSOP                                                 
+U20        SN74LVC244APWR         TopLayer TSSOP-20_(SN74LVC)     51.652       42.347       180      IC BUFF/DVR TRI-ST DUAL 20TSSOP                                                 
+U24                               TopLayer SSOP-28_(PIC)          10.528       42.337       90       MCU 8BIT 32KB FLASH 28SSOP                                                      
+U27                               TopLayer KX122-1037             4.966        25.393       180      ACCELEROMETER 2-8G I2C/SPI 12LGA                                                
+U3.3       ATSHA204A-XHDA-T       TopLayer TSSOP-8_(wide_Body)    54.962       80.025       0        IC CRYPTO 4.5KB I2C                                                             
+U3.2       ATSHA204A-XHDA-T       TopLayer TSSOP-8_(wide_Body)    87.092       79.948       0        IC CRYPTO 4.5KB I2C                                                             
+U3.1       ATSHA204A-XHDA-T       TopLayer TSSOP-8_(wide_Body)    22.855       79.898       0        IC CRYPTO 4.5KB I2C                                                             
+D12                               TopLayer DO-214AA_(SMBJ40CA)    86.104       42.901       180      TVS DIODE 40VWM 64.5VC DO214AA                                                  
+P3                                TopLayer 2x23_Header_Female     56.617       100.914      180      CONN RCPT .100" 46POS DUAL GOLD                                                 
+J10        3000TR                 TopLayer 3000TR                 23.749       29.312       90       Coin Cell Battery Holders SM COIN CELL B/H                                      
+J7         3000TR                 TopLayer 3000TR                 39.425       29.286       270      Coin Cell Battery Holders SM COIN CELL B/H                                      
+J9                                TopLayer 0901200122             84.658       10.363       90       CONN HEADER 2POS .100" STR TIN                                                  
+J6                                TopLayer 0901200122             25.222       4.369        270      CONN HEADER 2POS .100" STR TIN                                                  
+U12                               TopLayer DSBGA-28               100.728      9.093        180      Voltage Regulators - Switching Regulators 42VIN,2A SIMPLE SW NANO STEP-DOWN REG 
+R43                               TopLayer R0402                  98.061       13.056       90       RES SMD 150K OHM 1% 1/16W 0402                                                  
+R40                               TopLayer R0402                  99.433       13.030       90       RES SMD 100K OHM 1% 1/16W 0402                                                  
+C34                               TopLayer C0603                  103.426      9.073        270      CAP CER 1UF 25V X5R 0603                                                        
+C33                               TopLayer C1206                  95.898       3.048        180      CAP CER 47UF 10V X5R 1206                                                       
+C32                               TopLayer C0402                  100.754      13.030       90       CAP CER 0.015UF 25V X7R 0402                                                    
+C31                               TopLayer C0805                  95.721       7.417        180      CAP CER 0.1UF 50V X7R 0805                                                      
+C30                               TopLayer C1210                  95.021       12.167       180      CAP CER 10UF 35V X7R 1210                                                       
+C28                               TopLayer C0402                  98.366       8.966        90       CAP CER 0.033UF 25V X7R 0402                                                    
+U13                               TopLayer DSBGA-28               76.330       12.659       90       Voltage Regulators - Switching Regulators 42VIN,2A SIMPLE SW NANO STEP-DOWN REG 
+R47                               TopLayer R0402                  80.292       15.326       360      RES SMD 150K OHM 1% 1/16W 0402                                                  
+R46                               TopLayer R0402                  80.242       11.287       360      RES SMD 1K OHM 1% 1/16W 0402                                                    
+R45                               TopLayer R0402                  80.242       9.941        180      RES SMD 5.23K OHM 1% 1/16W 0402                                                 
+C41                               TopLayer C0603                  76.330       9.941        180      CAP CER 1UF 25V X5R 0603                                                        
+C40                               TopLayer C1206                  70.256       17.500       90       CAP CER 47UF 10V X5R 1206                                                       
+C39                               TopLayer C0402                  80.267       12.634       360      CAP CER 0.015UF 25V X7R 0402                                                    
+C38                               TopLayer C0805                  74.748       17.946       90       CAP CER 0.1UF 50V X7R 0805                                                      
+C37                               TopLayer C1210                  79.350       18.313       90       CAP CER 10UF 35V X7R 1210                                                       
+C35                               TopLayer C0402                  76.203       15.021       360      CAP CER 0.033UF 25V X7R 0402                                                    
+R24                               TopLayer R0402                  68.688       30.817       90       RES SMD 1K OHM 1% 1/10W 0402                                                    
+R23                               TopLayer R0402                  67.360       30.810       90       RES SMD 1K OHM 1% 1/10W 0402                                                    
+C45                               TopLayer C0402                  30.582       39.599       360      CAP CER 0.1UF 16V X7R 0402                                                      
+C1                                TopLayer C0402                  49.355       37.592       0        CAP CER 0.1UF 16V X7R 0402                                                      
+R37                               TopLayer R0402                  24.196       44.727       360      RES SMD 1K OHM 1% 1/10W 0402                                                    
+R36                               TopLayer R0402                  24.196       43.426       360      RES SMD 1K OHM 1% 1/10W 0402                                                    
+TP1.3                             TopLayer Test_Point_1.27mm      52.908       66.036       90       Test Point 1.27mm                                                               
+TP1.2                             TopLayer Test_Point_1.27mm      83.283       62.763       90       Test Point 1.27mm                                                               
+TP1.1                             TopLayer Test_Point_1.27mm      17.551       64.360       90       Test Point 1.27mm                                                               
+R11.3                             TopLayer R0402                  55.937       85.973       90       RES SMD 1K OHM 1% 1/10W 0402                                                    
+R11.2                             TopLayer R0402                  87.986       85.903       90       RES SMD 1K OHM 1% 1/10W 0402                                                    
+R11.1                             TopLayer R0402                  23.830       85.852       90       RES SMD 1K OHM 1% 1/10W 0402                                                    
+R10.3                             TopLayer R0402                  54.560       85.979       90       RES SMD 1K OHM 1% 1/10W 0402                                                    
+R10.2                             TopLayer R0402                  86.690       85.903       90       RES SMD 1K OHM 1% 1/10W 0402                                                    
+R10.1                             TopLayer R0402                  22.454       85.852       90       RES SMD 1K OHM 1% 1/10W 0402                                                    
+R1.3                              TopLayer R0402                  58.318       69.494       360      RES SMD 1K OHM 1% 1/10W 0402                                                    
+R1.2                              TopLayer R0402                  86.105       87.909       360      RES SMD 1K OHM 1% 1/10W 0402                                                    
+R1.1                              TopLayer R0402                  22.224       89.637       360      RES SMD 1K OHM 1% 1/10W 0402                                                    
+C9.3                              TopLayer C0402                  52.376       82.550       270      CAP CER 0.1UF 16V X7R 0402                                                      
+C9.2                              TopLayer C0402                  84.506       82.474       270      CAP CER 0.1UF 16V X7R 0402                                                      
+C9.1                              TopLayer C0402                  20.269       82.423       270      CAP CER 0.1UF 16V X7R 0402                                                      
+L2.3                              TopLayer 0805_INDUCTOR          46.204       61.549       270      FERRITE CHIP 120 OHM 0805                                                       
+L2.2                              TopLayer 0805_INDUCTOR          78.334       61.472       270      FERRITE CHIP 120 OHM 0805                                                       
+L2.1                              TopLayer 0805_INDUCTOR          14.097       61.422       270      FERRITE CHIP 120 OHM 0805                                                       
+C29                               TopLayer C0603                  76.729       17.565       90       CAP CER 2.2UF 35V X5R 0603                                                      
+C36                               TopLayer C0603                  95.848       9.474        180      CAP CER 2.2UF 35V X5R 0603                                                      
+D3.3       MBR0520L               TopLayer SOD123                 32.029       78.668       90       DIODE SCHOTTKY 20V 0.5A SOD123                                                  
+D3.2       MBR0520L               TopLayer SOD123                 64.159       78.592       90       DIODE SCHOTTKY 20V 0.5A SOD123                                                  
+D3.1       MBR0520L               TopLayer SOD123                 5.176        56.820       180      DIODE SCHOTTKY 20V 0.5A SOD123                                                  
+R61                               TopLayer R0402                  53.162       35.810       180      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R60                               TopLayer R0402                  66.472       38.300       90       RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R59                               TopLayer R1206                  100.919      69.516       180      RES SMD 0.0 OHM JUMPER 1/4W 1206                                                
+R58                               TopLayer R1206                  100.897      80.783       180      RES SMD 0.0 OHM JUMPER 1/4W 1206                                                
+R57                               TopLayer R1206                  100.872      97.852       180      RES SMD 0.0 OHM JUMPER 1/4W 1206                                                
+R5                                TopLayer R1206                  100.895      72.256       180      RES SMD 0.0 OHM JUMPER 1/4W 1206                                                
+R4                                TopLayer R1206                  100.872      89.317       180      RES SMD 0.0 OHM JUMPER 1/4W 1206                                                
+C21                               TopLayer C0402                  60.249       16.045       90       CAP CER 0.1UF 16V X7R 0402                                                      
+C20                               TopLayer C0402                  53.975       11.481       90       CAP CER 0.1UF 16V X7R 0402                                                      
+U2                                TopLayer SOT_23-5               57.175       15.545       90       IC INVERTER HS SINGLE SOT-23-5                                                  
+U26        MCP9808T-E/MS          TopLayer SOP65P490X110-8N       21.115       43.974       90       MCP9808 Series 3.6 V Memory Module Digital Temperature Sensor SMT - MSOP-8      
+U25                               TopLayer SOIC-20                14.681       6.561        270      IC RTC /CALENDAR TCXO QTZ 20SOIC                                                
+U10        ATAES132A-SHER-B       TopLayer SOIC-8                 53.086       31.750       180      IC EEPROM 32KBIT 1MHZ 8SOIC                                                     
+U9                                TopLayer SOIC-8                 31.979       16.215       90       IC RTC I2C 8SOIC                                                                
+U8                                TopLayer SOIC-8                 53.950       23.822       360      EEPROM Serial-I2C 8.5K-bit 2.5V/3.3V/5V 8-Pin SOIC Bulk                         
+U6                                TopLayer SOIC-8                 64.676       25.502       180      IC EEPROM 256K I2C 400KHZ 8SOIC                                                 
+U5                                TopLayer SOIC-8                 61.613       31.725       360      IC AUTHENTICATION CHIP 8SOIC                                                    
+U1.3                              TopLayer SOT-23-5               58.280       72.111       90       IC EEPROM 32KBIT 400KHZ SOT23-5                                                 
+U1.2                              TopLayer SOT-23-5               86.161       90.476       90       IC EEPROM 32KBIT 400KHZ SOT23-5                                                 
+U1.1                              TopLayer SOT-23-5               22.224       92.141       90       IC EEPROM 32KBIT 400KHZ SOT23-5                                                 
+S4                                TopLayer KMR231G_ULC_LFS        25.210       10.335       90       SWITCH TACTILE SPST-NO 0.05A 32V                                                
+S3                                TopLayer KMR231G_ULC_LFS        3.162        42.893       90       SWITCH TACTILE SPST-NO 0.05A 32V                                                
+S2                                TopLayer KMR231G_ULC_LFS        84.912       37.897       270      SWITCH TACTILE SPST-NO 0.05A 32V                                                
+R56                               TopLayer R0603                  67.996       17.119       270      RES SMD 1K OHM 1% 1/10W 0603                                                    
+R55                               TopLayer R0603                  79.924       48.895       360      RES SMD 1K OHM 1% 1/10W 0603                                                    
+R54                               TopLayer R0402                  7.175        22.700       90       RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R53                               TopLayer R0402                  5.885        22.712       270      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R52                               TopLayer R0402                  19.533       48.333       270      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R51                               TopLayer R0402                  24.181       48.561       180      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R50                               TopLayer R0402                  24.181       46.030       180      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R49                               TopLayer R0402                  20.790       48.333       90       RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R48                               TopLayer R0402                  24.189       49.831       360      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R44                               TopLayer R0402                  80.267       13.954       360      RES SMD 1K OHM 1% 1/16W 0402                                                    
+R42                               TopLayer R0402                  102.100      13.005       270      RES SMD 2.2K OHM 1% 1/10W 0402                                                  
+R41                               TopLayer R0402                  103.446      13.005       90       RES SMD 6.81KOHM 0.1% 1/16W 0402                                                
+R39                               TopLayer R0402                  101.270      15.668       0        RES SMD 10K OHM 5% 1/16W 0402                                                   
+R38                               TopLayer R0402                  24.189       47.279       360      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R35                               TopLayer R0402                  71.145       27.428       180      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R34                               TopLayer R0402                  71.145       23.618       180      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R33                               TopLayer R0402                  71.120       21.028       180      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R32                               TopLayer R0402                  59.360       23.571       360      RES SMD 10K OHM 1% 1/5W 0402                                                    
+R31                               TopLayer R0402                  12.586       49.116       90       RES SMD 0.0OHM JUMPER 1/16W 0402                                                
+R30                               TopLayer R0402                  59.359       24.867       180      RES SMD 10K OHM 1% 1/5W 0402                                                    
+R29                               TopLayer R0402                  59.334       26.137       180      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R28                               TopLayer R0402                  59.334       27.407       180      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R27                               TopLayer R0402                  71.145       26.137       360      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R26                               TopLayer R0402                  71.145       24.867       360      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R25                               TopLayer R0402                  71.120       22.327       360      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R22        RC0402JR-074K7L        TopLayer R0402                  72.398       44.501       270      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R21                               TopLayer R0402                  13.779       49.116       90       RES SMD 0.0OHM JUMPER 1/16W 0402                                                
+R20                               TopLayer R0603                  3.340        46.627       180      RES SMD 4.7K OHM 0.1% 1/10W 0603                                                
+R19                               TopLayer R0402                  9.563        35.324       270      RES SMD 0.0OHM JUMPER 1/16W 0402                                                
+R18                               TopLayer R0402                  5.550        35.299       90       RES SMD 220 OHM 5% 1/16W 0402                                                   
+R17                               TopLayer R0402                  4.254        35.324       90       RES SMD 220 OHM 5% 1/16W 0402                                                   
+R16                               TopLayer R0402                  92.126       78.152       90       RES SMD 220 OHM 5% 1/16W 0402                                                   
+R15                               TopLayer R0402                  92.037       73.000       90       RES SMD 330 OHM 1% 1/16W 0402                                                   
+R12.3                             TopLayer R0603                  54.001       69.291       360      RES SMD 4.7K OHM 0.1% 1/10W 0603                                                
+R12.2                             TopLayer R0603                  86.131       69.215       360      RES SMD 4.7K OHM 0.1% 1/10W 0603                                                
+R12.1                             TopLayer R0603                  21.895       69.164       360      RES SMD 4.7K OHM 0.1% 1/10W 0603                                                
+R9                                TopLayer R0402                  91.999       93.595       90       RES SMD 220 OHM 5% 1/16W 0402                                                   
+R8                                TopLayer R0402                  92.025       83.558       90       RES SMD 220 OHM 5% 1/16W 0402                                                   
+R7                                TopLayer R0402                  91.999       88.631       90       RES SMD 220 OHM 5% 1/16W 0402                                                   
+R6                                TopLayer R0603                  87.198       12.100       270      RES SMD 1K OHM 1% 1/16W 0603                                                    
+R3                                TopLayer R0805                  78.638       43.282       90       RES SMD 0.0 OHM JUMPER 1/8W 0805                                                
+R2                                TopLayer R0805                  80.061       39.827       360      RES SMD 0.0 OHM JUMPER 1/8W 0805                                                
+Q5                                TopLayer SOT-23-3               94.425       73.127       270      IC INDCT LOAD DRVR AUTO SOT23                                                   
+Q4                                TopLayer SOT-23-3               94.412       83.685       270      IC INDCT LOAD DRVR AUTO SOT23                                                   
+Q3                                TopLayer SOT-23-3               94.386       93.722       270      IC INDCT LOAD DRVR AUTO SOT23                                                   
+Q2                                TopLayer SOT-23-3               94.513       78.279       270      IC INDCT LOAD DRVR AUTO SOT23                                                   
+Q1                                TopLayer SOT-23-3               94.386       88.758       270      IC INDCT LOAD DRVR AUTO SOT23                                                   
+P1                                TopLayer UX60SC-MB-5ST(80)      3.852        14.592       270      CONN RCPT USB MINI B R/A SMD                                                    
+J15                               TopLayer PJ-002AH               94.310       52.692       360      CONN PWR JACK 2.1X5.5MM HIGH CUR                                                
+J2.3                              TopLayer 0022284070             32.056       66.726       90       CONN HEADER 7POS .100 VERT TIN                                                  
+J2.2                              TopLayer 0022284070             64.186       66.650       90       CONN HEADER 7POS .100 VERT TIN                                                  
+J2.1                              TopLayer 0022284070             10.592       54.026       360      CONN HEADER 7POS .100 VERT TIN                                                  
+FB1                               TopLayer 1206_INDUCTOR          92.583       42.189       360      FERRITE BEAD 1 KOHM 1206 1LN                                                    
+D15                               TopLayer LED0402(BLUE)          7.023        35.248       270      LED BLUE 0402 SMD                                                               
+D14                               TopLayer LED0402(GREEN)         66.243       17.525       90       LED GREEN 0402 SMD                                                              
+D13                               TopLayer LED0402(GREEN)         76.897       48.895       360      LED GREEN 0402 SMD                                                              
+D11                               TopLayer LED0402(RED)           2.781        35.273       270      LED RED 0402 SMD                                                                
+D10                               TopLayer LED0402(GREEN)         93.091       75.764       180      LED GREEN 0402 SMD                                                              
+D9                                TopLayer LED0402(RED)           92.964       86.243       180      LED RED 0402 SMD                                                                
+D8                                TopLayer LED0402(BLUE)          92.990       81.171       180      LED BLUE 0402 SMD                                                               
+D7                                TopLayer LED0402(GREEN)         92.964       91.208       180      LED GREEN 0402 SMD                                                              
+D6                                TopLayer SOD128                 85.700       46.586       360      AUTOMOTIVE SCHOTTKY BARRIER DIOD                                                
+D4.3                              TopLayer LED-0603_(BLUE)        44.197       60.753       270      LED BLUE CLEAR 0603 SMD                                                         
+D4.2                              TopLayer LED-0603_(BLUE)        76.327       60.676       270      LED BLUE CLEAR 0603 SMD                                                         
+D4.1                              TopLayer LED-0603_(BLUE)        12.090       60.626       270      LED BLUE CLEAR 0603 SMD                                                         
+D2                                TopLayer LED0402(BLUE)          93.002       70.612       180      LED BLUE 0402 SMD                                                               
+C49                               TopLayer C0805                  90.195       38.608       270      CAP CER 2200PF 50V 10% X7R 0805                                                 
+C48                               TopLayer C0805                  87.935       38.608       270      CAP CER 0.1UF 100V X7R 0805                                                     
+C47                               TopLayer C0805                  93.193       38.659       180      CAP CER 0.1UF 100V X7R 0805                                                     
+C46                               TopLayer C0805                  93.193       36.474       180      CAP CER 2200PF 50V 10% X7R 0805                                                 
+C26                               TopLayer C0402                  31.344       10.852       270      CAP CER 0.1UF 16V X7R 0402                                                      
+C25                               TopLayer C0402                  50.886       27.920       360      CAP CER 0.1UF 16V X7R 0402                                                      
+C24                               TopLayer C0402                  56.150       27.378       180      CAP CER 0.1UF 16V X7R 0402                                                      
+C23                               TopLayer C0402                  62.476       21.692       360      CAP CER 0.1UF 16V X7R 0402                                                      
+C22                               TopLayer C0402                  63.813       35.484       180      CAP CER 0.1UF 16V X7R 0402                                                      
+C19                               TopLayer C0805                  75.616       31.115       360      CAP CER 2200PF 50V 10% X7R 0805                                                 
+C18                               TopLayer C0402                  75.166       29.112       360      CAP CER 0.1UF 16V X7R 0402                                                      
+C17                               TopLayer C0603                  73.888       43.782       90       CAP CER 2200PF 50V X7R 0603                                                     
+C15                               TopLayer C0805                  71.603       31.115       360      CAP CER 2200PF 50V 10% X7R 0805                                                 
+C14                               TopLayer C0402                  71.156       29.083       360      CAP CER 0.1UF 16V X7R 0402                                                      
+C13                               TopLayer C0805                  69.367       43.713       90       CAP CER 2200PF 50V 10% X7R 0805                                                 
+C12.3                             TopLayer C0805                  48.515       61.571       270      CAP CER 10UF 6.3V X5R 0805                                                      
+C12.2                             TopLayer C0805                  80.645       61.495       270      CAP CER 10UF 6.3V X5R 0805                                                      
+C12.1                             TopLayer C0805                  16.408       61.443       270      CAP CER 10UF 6.3V X5R 0805                                                      
+C11.3                             TopLayer C0402                  46.489       58.725       360      CAP CER 0.1UF 16V X7R 0402                                                      
+C11.2                             TopLayer C0402                  78.619       58.699       360      CAP CER 0.1UF 16V X7R 0402                                                      
+C11.1                             TopLayer C0402                  14.382       58.598       360      CAP CER 0.1UF 16V X7R 0402                                                      
+C10.3                             TopLayer C0402                  53.651       70.968       360      CAP CER 0.1UF 16V X7R 0402                                                      
+C10.2                             TopLayer C0402                  85.781       70.891       360      CAP CER 0.1UF 16V X7R 0402                                                      
+C10.1                             TopLayer C0402                  21.545       70.841       360      CAP CER 0.1UF 16V X7R 0402                                                      
+C8                                TopLayer C0402                  7.366        26.141       90       CAP CER 0.1UF 16V X7R 0402                                                      
+C7                                TopLayer C0402                  7.163        7.798        270      CAP CER 1000PF 50V X7R 0402                                                     
+C6                                TopLayer C0402                  18.542       45.674       270      CAP CER 0.1UF 16V X7R 0402                                                      
+C5                                TopLayer C0402                  22.301       2.311        90       CAP CER 0.1UF 16V X7R 0402                                                      
+C4                                TopLayer C0402                  3.632        39.134       180      CAP CER 0.1UF 16V X7R 0402                                                      
+C2                                TopLayer C0402                  10.744       48.460       90       CAP CER 0.1UF 16V X7R 0402                                                      
+U16        BEAGLE_BONE_BLACK_CAPE TopLayer BEAGLE_BONE_BLACK_CAPE 56.617       28.524       360      Beaglebone 2x23 Pin stacking header(2 Pack )                                    
+J1                                TopLayer 2pin_5mm_Pitch         99.974       39.345       360                                                                                      
+J3                                TopLayer 2pin_5mm_Pitch         99.837       58.090       180                                                                                      
+J4                                TopLayer 2pin_5mm_Pitch         99.822       92.202       180                                                                                      
+J5                                TopLayer 2pin_5mm_Pitch         99.845       75.141       180                                                                                      
+J11                               TopLayer 2pin_5mm_Pitch         99.822       100.736      180                                                                                      
+J12                               TopLayer 2pin_5mm_Pitch         99.847       83.668       180                                                                                      
+J13                               TopLayer 2pin_5mm_Pitch         99.822       66.624       180                                                                                      
+J14                               TopLayer 2pin_5mm_Pitch         15.697       17.374       180                                                                                      
+D5.1                              TopLayer LED0805_-_(RED)        6.655        60.935       270      LED CHIPLED 633NM RED 0805 SMD                                                  
+D5.2                              TopLayer LED0805_-_(RED)        70.891       60.985       270      LED CHIPLED 633NM RED 0805 SMD                                                  
+D5.3                              TopLayer LED0805_-_(RED)        38.761       61.062       270      LED CHIPLED 633NM RED 0805 SMD                                                  
+R13.1                             TopLayer R0603                  8.636        60.626       270      RES SMD 1K OHM 1% 1/10W 0603                                                    
+R13.2                             TopLayer R0603                  72.873       60.685       270      RES SMD 1K OHM 1% 1/10W 0603                                                    
+R13.3                             TopLayer R0603                  40.742       60.762       270      RES SMD 1K OHM 1% 1/10W 0603                                                    
+R14.1                             TopLayer R0603                  10.338       60.576       270      RES SMD 1K OHM 1% 1/10W 0603                                                    
+R14.2                             TopLayer R0603                  74.574       60.676       270      RES SMD 1K OHM 1% 1/10W 0603                                                    
+R14.3                             TopLayer R0603                  42.444       60.753       270      RES SMD 1K OHM 1% 1/10W 0603                                                    
+L3         MPI4040R3-220-R        TopLayer MPI4040R3-220-R        100.788      3.809        180      FIXED IND 22UH 1.1A 408 MOHM SMD                                                
+L4         MPI4040R3-220-R        TopLayer MPI4040R3-220-R        71.046       12.600       90       FIXED IND 22UH 1.1A 408 MOHM SMD                                                
+R62        RC0402JR-074K7L        TopLayer R0402                  66.472       36.017       90       RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R63        RC0402JR-074K7L        TopLayer R0402                  75.721       44.018       270      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+R64        RC0402JR-074K7L        TopLayer R0402                  71.156       44.501       270      RES SMD 4.7K OHM 5% 1/16W 0402                                                  
+U17        AT97SC3205T-X3A14-10   TopLayer TSSOP-28               72.263       37.698       360      STD COM 12C TPM 4.4 MM TSSOP UEK                                                

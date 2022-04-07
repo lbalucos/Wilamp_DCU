@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: wilamp_DCU.PcbDoc   1/23/2019  4:07:09 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Wilamp DCU v1.1-RoundHoles.TXT
+ASCII SlotHoles File : Wilamp DCU v1.1-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.203mm (8mil)                                            Round             22        PTH        52.91mm (2.08inch)
+T2      0.254mm (10mil)                                           Round             532       PTH        2084.56mm (82.07inch)
+T3      0.279mm (11mil)                                           Round             9         PTH        96.39mm (3.79inch)
+T4      0.483mm (19mil)                                           Round             9         PTH        147.72mm (5.82inch)
+T5      1mm (39mil)                                               Round             50        PTH        269.27mm (10.60inch)
+T6      1mm (39mil)                                               Slot              3         PTH        28.57mm (1.12inch)
+T7      1.016mm (40mil)                                           Round             98        PTH        332.36mm (13.09inch)
+T8      1.02mm (40mil)                                            Round             21        PTH        185.23mm (7.29inch)
+T9      1.5mm (59mil)                                             Round             16        PTH        183.66mm (7.23inch)
+T10     3.7mm (146mil)                                            Round             4         PTH        300.84mm (11.84inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              764
+
+Total Processing Time (hh:mm:ss) : 00:00:00
