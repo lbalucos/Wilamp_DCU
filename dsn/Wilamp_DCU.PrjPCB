@@ -718,6 +718,10 @@ Variation26=Designator=D11|UniqueId=\JWLPRIJE\NHRJSFBB\WVHBEKDA|Kind=1|Alternate
 Variation27=Designator=R39|UniqueId=\JWLPRIJE\VEIGBMRI\PCJBSUYR|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Wilamp_DCU\Design Rule Check - wilamp_DCU.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
