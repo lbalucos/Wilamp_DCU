@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:06:56 AM On 4/28/2022
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : PCB Document [wilamp_DCU.PcbDoc]
+   Generated File[Wilamp DCU v2.0.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:06:58 AM On 4/28/2022

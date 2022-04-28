@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: wilamp_DCU.PcbDoc   4/28/2022  11:06:51 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Wilamp DCU v2.0-RoundHoles.TXT
+ASCII SlotHoles File : Wilamp DCU v2.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             356       PTH        0.00mm (0.00inch)
+T2      0.203mm (8mil)                                            Round             54        PTH        0.00mm (0.00inch)
+T3      0.254mm (10mil)                                           Round             462       PTH        0.00mm (0.00inch)
+T4      0.279mm (11mil)                                           Round             6         PTH        0.00mm (0.00inch)
+T5      0.4mm (16mil)                                             Slot              8         PTH        0.00mm (0.00inch)
+T6      0.483mm (19mil)                                           Round             9         PTH        0.00mm (0.00inch)
+T7      1mm (39mil)                                               Round             50        PTH        0.00mm (0.00inch)
+T8      1mm (39mil)                                               Slot              3         PTH        0.00mm (0.00inch)
+T9      1.016mm (40mil)                                           Round             98        PTH        0.00mm (0.00inch)
+T10     1.02mm (40mil)                                            Round             14        PTH        0.00mm (0.00inch)
+T11     1.5mm (59mil)                                             Round             16        PTH        0.00mm (0.00inch)
+T12     3.7mm (146mil)                                            Round             4         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1080
+
+Total Processing Time (hh:mm:ss) : 00:00:02
